@@ -3,9 +3,14 @@
 			font-family: 'Courier New', Courier, monospace;
 		}
 		.second-list{
-			font-style: unset;
+			font-family: 'Courier New', Courier, monospace;
 			font-size: larger;
 			
 		}
 		.entire-body{
 			background-color: rgb(240, 187, 195);
+		}
+		.box{
+			display: grid;
+			grid-template-columns: 500px 500px;
+		}

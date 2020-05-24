@@ -1,0 +1,6 @@
+.grid-container{
+    background-image:url("splash.jpg");
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+}
