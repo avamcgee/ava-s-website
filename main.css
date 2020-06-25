@@ -5,8 +5,8 @@
     background-color: palegoldenrod;
 }
 .h1{
-    font-style: unset;
+    font-style: italic;
 }
-.li{
-    font-family: monaco; 
+.lists{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; 
 }
