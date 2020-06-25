@@ -4,3 +4,9 @@
 .entirebody{
     background-color: palegoldenrod;
 }
+.h1{
+    font-style: unset;
+}
+.li{
+    font-family: monaco; 
+}
