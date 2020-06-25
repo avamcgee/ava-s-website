@@ -1,12 +1,11 @@
 .h1{
+    text-decoration-color: turquoise;
     font-size: larger;
     font-family: monospace;
+    transform: rotate3d(180);
 }
 .entirebody{
     background-color: palegoldenrod;
-}
-.h1{
-    font-style: italic;
 }
 .lists{
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; 
